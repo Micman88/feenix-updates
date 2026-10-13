@@ -1,0 +1,286 @@
+{
+  "_about": "Feenix Updates database. 'updates' = company news shown on the site. 'linkedin' = what is going out on LinkedIn. Only add items with visibility 'public' to this file: the GitHub repo is public, so internal items must stay in the local drafts folder.",
+  "last_updated": "2026-10-13",
+  "categories": ["Announcements", "Partnerships", "Product", "Research", "Events", "Insights"],
+  "updates": [
+    {
+      "id": "2026-10-governance-intelligence-series",
+      "date": "2026-10-12",
+      "category": "Research",
+      "headline": "Introducing the Built Environment AI Governance Intelligence Series",
+      "summary": "A recurring, source-backed briefing on how AI governance is starting to shape professional obligations, buyer decisions and commercial outcomes across the built environment.",
+      "body": [
+        "The series follows one question: how is AI governance beginning to affect professional obligations, buyer decisions and commercial outcomes in the built environment?",
+        "It runs in three layers. The Governance Pulse is a seven-slide LinkedIn briefing every 14 days on what genuinely moved. The Governance Monitor follows monthly and explains whether isolated developments form a pattern. A quarterly State of AI Governance report brings comparable periods together, with its method and limitations open to inspection.",
+        "Every public conclusion traces back to a dated source. Tender observations are reported with their sample and denominator, and corrections are recorded rather than quietly replaced.",
+        "The comparison point for the series is 29 September 2026. It starts from the RICS professional standard on the responsible use of AI in surveying practice, the Cabinet Office's PPN 017 on transparency of AI use in procurement, and ISO/IEC 42001."
+      ],
+      "tags": ["Governance Pulse", "RICS", "procurement", "ISO/IEC 42001"],
+      "link": "",
+      "link_label": "",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-08-academic-advisory-lead",
+      "date": "2026-08",
+      "category": "Announcements",
+      "headline": "Dr Kwadwo Oti-Sarpong to support Feenix as Academic Advisory Lead",
+      "summary": "Feenix welcomes Dr Kwadwo Oti-Sarpong as Academic Advisory Lead, strengthening its commitment to evidence-led, responsible AI adoption across the built environment.",
+      "body": [
+        "Feenix welcomes Dr Kwadwo Oti-Sarpong as Academic Advisory Lead.",
+        "The appointment strengthens Feenix's commitment to evidence-led, responsible AI adoption across the built environment."
+      ],
+      "tags": ["advisory", "research"],
+      "link": "https://www.feenix.tech/news/dr-kwadwo-oti-sarpong-to-support-feenix-as-academic-advisory-lead",
+      "link_label": "Read the full announcement",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-07-the-qsi-partnership",
+      "date": "2026-07",
+      "category": "Partnerships",
+      "headline": "Feenix partners with The QSi, supporting quantity surveyors in commercial decision making",
+      "summary": "Feenix and The QSi are working together to equip quantity surveyors with the knowledge, governance and confidence needed to adopt AI responsibly.",
+      "body": [
+        "Feenix and The QSi are working together to equip quantity surveyors with the knowledge, governance and confidence needed to adopt AI responsibly across the built environment."
+      ],
+      "tags": ["quantity surveying", "partnership"],
+      "link": "https://www.feenix.tech/news/feenix-partners-with-the-qsi-supporting-quantity-surveyors-in-commercial-decision-making",
+      "link_label": "Read the full announcement",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-07-fnx-platform-v1",
+      "date": "2026-07",
+      "category": "Product",
+      "headline": "FNX Governance Platform reaches v1",
+      "summary": "The platform helps organisations move beyond a folder of AI policy documents to a connected governance system.",
+      "body": [
+        "Feenix has reached v1 status for the FNX Governance Platform, helping organisations move beyond standalone AI policy documents to a structured governance system.",
+        "Aligned with RICS, ISO/IEC 42001 and EU AI Act principles, the platform supports responsible AI adoption through connected policies, risk management, evidence and oversight."
+      ],
+      "tags": ["FNX", "platform", "EU AI Act", "ISO/IEC 42001"],
+      "link": "https://www.feenix.tech/news/feenix-governance-platform-reaches-v1-status-organisations-need-more-than-a-folder-of-ai-policy",
+      "link_label": "Read the full announcement",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-06-compliance-cost-gap",
+      "date": "2026-06",
+      "category": "Insights",
+      "headline": "The Compliance Cost Gap: what the RICS AI standard costs UK surveyors",
+      "summary": "A transparent model of year-one, sector-wide compliance costs under the RICS standard on the responsible use of AI, and who carries the burden.",
+      "body": [
+        "What does the RICS standard on the responsible use of AI actually cost UK surveyors? Feenix built a transparent model to find out.",
+        "The model estimates around GBP 39 million in year-one sector-wide compliance costs. It also shows that firms reporting no AI adoption still carry baseline costs."
+      ],
+      "tags": ["RICS", "compliance", "cost model"],
+      "link": "https://www.feenix.tech/news/compliance-cost-gap",
+      "link_label": "Read the insight",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-06-partner-ecosystem",
+      "date": "2026-06",
+      "category": "Partnerships",
+      "headline": "Feenix introduces its founding partner ecosystem",
+      "summary": "Four partners covering the full lifecycle of responsible AI adoption in the built environment: governance, implementation, technical grounding and delivery.",
+      "body": [
+        "Feenix has introduced its founding partner ecosystem: four deliberate relationships covering the full lifecycle of responsible AI adoption in the built environment.",
+        "Clearnorth (known across the sector as The QS People) connects responsible AI initiatives with organisations exploring how AI can support their business. Serpin brings experience governing and deploying AI within large, complex organisations. Built Intelligence provides technical expertise grounded in the systems used across the built environment. Vidos supports delivery, helping teams turn responsible AI into something they can adopt and sustain.",
+        "Responsible AI adoption is not a single-vendor problem. The ecosystem brings governance, implementation, technical grounding and practical delivery together."
+      ],
+      "tags": ["Clearnorth", "Serpin", "Built Intelligence", "Vidos"],
+      "link": "",
+      "link_label": "",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-06-rics-iapp",
+      "date": "2026-06",
+      "category": "Announcements",
+      "headline": "Feenix confirmed as RICS Tech Partner and IAPP member",
+      "summary": "Two memberships that ground Feenix's governance tools in recognised professional and regulatory standards.",
+      "body": [
+        "Feenix has been confirmed as a Tech Partner of the Royal Institution of Chartered Surveyors, aligning its development to the standards RICS members and regulated firms are required to follow.",
+        "Feenix is also now a member of the International Association of Privacy Professionals, so its governance frameworks draw on established international practice in AI accountability, privacy and data governance."
+      ],
+      "tags": ["RICS", "IAPP", "membership"],
+      "link": "",
+      "link_label": "",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    },
+    {
+      "id": "2026-06-launch-and-braintrust",
+      "date": "2026-06",
+      "category": "Events",
+      "headline": "Feenix launches publicly and introduces the Feenix Braintrust",
+      "summary": "An inaugural launch dinner marked Feenix's public launch and introduced five independent advisers whose role is to challenge Feenix, not endorse it.",
+      "body": [
+        "Feenix held its inaugural launch dinner in June 2026, bringing together founding partners, Braintrust members and sector leaders. It marked Feenix's public launch and the formal introduction of the partner ecosystem and advisory board.",
+        "The Feenix Braintrust brings together five independent advisers: Davin Dhillon (Strategy and Growth), Danielle Lodge (Enterprise Operations), Scott Druck (AI Implementation), Kate Vandermark (Communications) and Marcia Weekes-Spears (People and Organisational Change).",
+        "An organisation that builds governance tools for others should be able to show governance in how it operates. The Braintrust is part of that."
+      ],
+      "tags": ["launch", "Braintrust", "advisory"],
+      "link": "",
+      "link_label": "",
+      "visibility": "public",
+      "linkedin_worthy": true,
+      "corrections": []
+    }
+  ],
+  "linkedin": [
+    {
+      "id": "pulse-01",
+      "series": "Governance Pulse",
+      "issue": "Issue 01",
+      "title": "Governance Pulse, Issue 01: position at Week 0",
+      "publish_date": "2026-10-12",
+      "covers": "29 Sep to 11 Oct 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "The baseline issue: where professional duties, tender expectations and assurance requests sit today, starting from the RICS AI standard and PPN 017.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "pulse-02",
+      "series": "Governance Pulse",
+      "issue": "Issue 02",
+      "title": "Governance Pulse, Issue 02",
+      "publish_date": "2026-10-26",
+      "covers": "12 Oct to 25 Oct 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "What moved in the fortnight: up to three verified developments, plus Tender Watch.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "monitor-2026-10",
+      "series": "Governance Monitor",
+      "issue": "October 2026",
+      "title": "Governance Monitor: October 2026",
+      "publish_date": "2026-11-02",
+      "date_tbc": true,
+      "covers": "1 Oct to 31 Oct 2026",
+      "format": "8 to 10 slide LinkedIn document + short article",
+      "summary": "The pattern behind the month's Pulses: movement map, tender analysis and what firms should prepare for next.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "planned",
+      "post_url": ""
+    },
+    {
+      "id": "pulse-03",
+      "series": "Governance Pulse",
+      "issue": "Issue 03",
+      "title": "Governance Pulse, Issue 03",
+      "publish_date": "2026-11-09",
+      "covers": "26 Oct to 8 Nov 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "What moved in the fortnight: up to three verified developments, plus Tender Watch.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "pulse-04",
+      "series": "Governance Pulse",
+      "issue": "Issue 04",
+      "title": "Governance Pulse, Issue 04",
+      "publish_date": "2026-11-23",
+      "covers": "9 Nov to 22 Nov 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "What moved in the fortnight: up to three verified developments, plus Tender Watch.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "monitor-2026-11",
+      "series": "Governance Monitor",
+      "issue": "November 2026",
+      "title": "Governance Monitor: November 2026",
+      "publish_date": "2026-11-30",
+      "date_tbc": true,
+      "covers": "1 Nov to 30 Nov 2026",
+      "format": "8 to 10 slide LinkedIn document + short article",
+      "summary": "The pattern behind the month's Pulses, with one commercial question examined in depth.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "planned",
+      "post_url": ""
+    },
+    {
+      "id": "pulse-05",
+      "series": "Governance Pulse",
+      "issue": "Issue 05",
+      "title": "Governance Pulse, Issue 05",
+      "publish_date": "2026-12-07",
+      "covers": "23 Nov to 6 Dec 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "What moved in the fortnight: up to three verified developments, plus Tender Watch.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "pulse-06",
+      "series": "Governance Pulse",
+      "issue": "Issue 06",
+      "title": "Governance Pulse, Issue 06",
+      "publish_date": "2026-12-21",
+      "covers": "7 Dec to 20 Dec 2026",
+      "format": "7-slide LinkedIn document + caption",
+      "summary": "What moved in the fortnight: up to three verified developments, plus Tender Watch.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "scheduled",
+      "post_url": ""
+    },
+    {
+      "id": "state-q4-2026",
+      "series": "State of AI Governance",
+      "issue": "Q4 2026",
+      "title": "State of AI Governance in the Built Environment: Q4 2026",
+      "publish_date": "2027-01-18",
+      "date_tbc": true,
+      "covers": "1 Oct to 31 Dec 2026",
+      "format": "Downloadable report + 8 to 10 slide LinkedIn summary",
+      "summary": "The flagship quarterly report: findings, procurement evidence, professional landscape and the governance horizon, with method and sources.",
+      "posted_by": "Micah Stennett",
+      "original_account": "Micah Stennett (personal LinkedIn)",
+      "feenix_page": "reshare",
+      "status": "planned",
+      "post_url": ""
+    }
+  ]
+}
